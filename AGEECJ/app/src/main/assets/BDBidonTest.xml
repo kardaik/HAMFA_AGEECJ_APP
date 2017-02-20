@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <evenement1>
+        <TypeEven>Assemblée Générale</TypeEven>
+        <AbrevEven>A.G.</AbrevEven>
+        <DateEven>30-2-2017</DateEven>
+        <HeureEven>12:00</HeureEven>
+        <LocalEven>310.2</LocalEven>
+        <DescrLocal>En Face Des Pas Perdu</DescrLocal>
+
+        <DescrEven>ALPHABETACHARLIE</DescrEven>
+    </evenement1>
+
+    <evenement2>
+        <TypeEven>Conseil Administration</TypeEven>
+        <AbrevEven>C.A.</AbrevEven>
+        <DateEven>15-3-2017</DateEven>
+        <HeureEven>17:30</HeureEven>
+        <LocalEven>310.2</LocalEven>
+        <DescrLocal>En Face Des Pas Perdu</DescrLocal>
+
+        <DescrEven>DELTAECHOFOXTROT</DescrEven>
+    </evenement2>
+
+</resources>
