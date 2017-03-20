@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/ageecj"
+            android:icon="@drawable/ageecjlogo"
+            android:title="Site web AGEECJ"
+            android:onClick="goToAgeecj"/>
+        <item
+            android:id="@+id/obtus"
+            android:icon="@drawable/obtus"
+            android:title="site web Obtus"
+            android:onClick="goToObtus"/>
+        <item
+            android:id="@+id/vertdure"
+            android:icon="@drawable/logo_vertdure"
+            android:title="site vertdure"
+            android:onClick="goToVertdure"/>
+    </group>
+
+
+    <item android:title="Communiquer">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Partager" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Envoyer" />
+        </menu>
+    </item>
+
+</menu>

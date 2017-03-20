@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">AGEECJ_V3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="NomEv1">Assemblée Générale</string>
+    <string name="DateEv1">1 février</string>
+    <string name="LocalEv1">310.2</string>
+    <string name="HeureEv1">Midi</string>
+    <string name="GuideLocalEv1">Pres des pas perdu</string>
+    <string name="SalutationEv1">Bonjours,</string>
+    <string name="IntroEv1">L\'AGEECJ vous invite a son assemblée générale ordinaire, ou plusieurs points important seront couver! pizza et café offert gratuitement en plus de tirage de prix de présence!</string>
+    <string name="OrdreJourEv1">Ordre du jour:</string>
+    <string name="Pt1Ev1">-Point1</string>
+    <string name="Pt2Ev1">-Point2</string>
+    <string name="Pt3Ev1">-Point3</string>
+
+    <string name="NomEv2">Conseille Executif</string>
+    <string name="DateEv2">31 janvier</string>
+    <string name="LocalEv2">308.2</string>
+    <string name="HeureEv2">17h30</string>
+    <string name="GuideLocalEv2">Pres des pas perdu</string>
+    <string name="SalutationEv2">Bonjours,</string>
+    <string name="IntroEv2">L\'executif de L\'AGEECJ vous invite a son conseille executif, le point principal de l\'ordre du jour concernera le déroulement de l\'A.G. de demain</string>
+    <string name="OrdreJourEv2">Ordre du jour:</string>
+    <string name="Pt1Ev2">-Point1</string>
+    <string name="Pt2Ev2">-Point2</string>
+    <string name="Pt3Ev2">-Point3</string>
+
+    <string name="NomEv3">Conseille administratif</string>
+    <string name="DateEv3">25 janvier</string>
+    <string name="LocalEv3">310.2</string>
+    <string name="HeureEv3">17h30</string>
+    <string name="GuideLocalEv3">Pres des pas perdu</string>
+    <string name="SalutationEv3">Bonjours,</string>
+    <string name="IntroEv3">L\'AGEECJ invite tout les membres du C.A. (sois les président, v-p, secretaire et representant de cohorte) ainsi que les étduiant membre désirant y assister, au C.A. plusieurs points important concernant, l\'Assemblé générale ordinaire qui sera a venir, seront couver! pizza et café offert gratuitement</string>
+    <string name="OrdreJourEv3">Ordre du jour:</string>
+    <string name="Pt1Ev3">-Point1</string>
+    <string name="Pt2Ev3">-Point2</string>
+    <string name="Pt3Ev3">-Point3</string>
+
+    <string name="NomEv4">Ouverture du café</string>
+    <string name="DateEv4">16 Janvier</string>
+    <string name="LocalEv4">312.2</string>
+    <string name="HeureEv4">8h</string>
+    <string name="GuideLocalEv4">Pres des pas perdu</string>
+    <string name="SalutationEv4">Bonjours,</string>
+    <string name="IntroEv4">L\'AGEECJ et le commité de gestion du cafe chez ginette tiennent a informer ses membres que le café chez ginette ouvrira ses porte le lundi 16 janvier!</string>
+    <string name="OrdreJourEv4">PROMO OUVERTURE et nouveauté</string>
+    <string name="Pt1Ev4">-Café et boisson chaude gratuis!</string>
+    <string name="Pt2Ev4">-NOUVEAU-THÉS!</string>
+    <string name="Pt3Ev4">-Produit du magazin du monde</string>
+    <string name="Pt4Ev4">-Nouveau look!</string>
+
+    <string name="NomEv5">Offre d\'emplois</string>
+    <string name="DateEv5">9janvier</string>
+    <string name="LocalEv5">308.2</string>
+    <string name="HeureEv5">Midi</string>
+    <string name="GuideLocalEv5">Pres des pas perdu</string>
+    <string name="SalutationEv5">Bonjours,</string>
+    <string name="IntroEv5">L\'AGEECJ et le commité de gestion du café chez ginette est presnetement a la rechercher d\'employé pour la session H17! Si vous etes interesser venez porter votre c.v. ainsi que vitre horraire au local de l\'AGEECJ avant le vendredit 13 janvier.</string>
+    <string name="OrdreJourEv5">Pré-requis:</string>
+    <string name="Pt1Ev5">-Etre disponible pour les entrevu samedi 10ham 14 janvier</string>
+    <string name="Pt2Ev5">-Etre disponible pour la formation le dimanche 15 janvier</string>
+    <string name="Pt3Ev5">-Avoir un avant midi ou un apres midi complet de disponible a son horraire</string>
+
+    <string name="NomEv6">Conseille Executif</string>
+    <string name="DateEv6">13 Décembre</string>
+    <string name="LocalEv6">308.2</string>
+    <string name="HeureEv6">17h30</string>
+    <string name="GuideLocalEv6">Pres des pas perdu</string>
+    <string name="SalutationEv6">Bonjours,</string>
+    <string name="IntroEv6">L\'executif de L\'AGEECJ vous invite a son conseille executif, le point principal de l\'ordre du jour concernera les dossier a regler pendant les fete par l\'Executif</string>
+    <string name="OrdreJourEv6">Ordre du jour:</string>
+    <string name="Pt1Ev6">-Point1</string>
+    <string name="Pt2Ev6">-Point2</string>
+    <string name="Pt3Ev6">-Point3</string>
+
+    <string name="NomEv7">Nouvaux Exécutant</string>
+    <string name="DateEv7">7 decembre</string>
+    <string name="LocalEv7">308.2</string>
+    <string name="HeureEv7">Midi</string>
+    <string name="GuideLocalEv7">Pres des pas perdu</string>
+    <string name="SalutationEv7">Bonjours,</string>
+    <string name="IntroEv7">L\'Executif souhaite la bienvenu a ses deux nouveaux exécutant sois Fabrice hammond au poste de président et jérome poudrier au poste de secretaire generale. ils on tous deux été élu par aclamaion lors du processus électoral normal.</string>
+    <string name="OrdreJourEv7">PHOTO:</string>
+    <string name="Pt1Ev7">-Fabrice Hammond</string>
+    <string name="Pt2Ev7">-Jérome poudrier</string>
+
+
+</resources>
