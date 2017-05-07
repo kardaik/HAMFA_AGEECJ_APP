@@ -6,18 +6,15 @@
         <item
             android:id="@+id/ageecj"
             android:icon="@drawable/ageecjlogo"
-            android:title="Site web AGEECJ"
-            android:onClick="goToAgeecj"/>
+            android:title="Site web AGEECJ"/>
         <item
             android:id="@+id/obtus"
             android:icon="@drawable/obtus"
-            android:title="site web Obtus"
-            android:onClick="goToObtus"/>
+            android:title="site web Obtus"/>
         <item
             android:id="@+id/vertdure"
             android:icon="@drawable/logo_vertdure"
-            android:title="site vertdure"
-            android:onClick="goToVertdure"/>
+            android:title="site vertdure"/>
     </group>
 
 

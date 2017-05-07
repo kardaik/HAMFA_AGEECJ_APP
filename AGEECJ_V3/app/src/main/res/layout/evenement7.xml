@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#d3d3d3">
+    android:background="#ffffff">
 
     <ScrollView
         android:layout_width="wrap_content"
@@ -78,6 +78,10 @@
                 </LinearLayout>
             </LinearLayout>
 
+            <View android:background="#BDBDBD"
+                android:layout_width = "match_parent"
+                android:layout_height="1dp"/>
+
             <LinearLayout
                 android:orientation="vertical"
                 android:layout_width="match_parent"
@@ -97,6 +101,31 @@
                     android:text="@string/IntroEv7"
                     android:id="@+id/textView22"
                     android:paddingBottom="15dp"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="1">
+
+                    <View
+                        android:background="#ffffff"
+                        android:layout_width="0dp"
+                        android:layout_height="1dp"
+                        android:layout_weight=".10" />
+
+                    <View
+                        android:background="#BDBDBD"
+                        android:layout_width="0dp"
+                        android:layout_height="1dp"
+                        android:layout_weight=".80" />
+
+                    <View
+                        android:background="#ffffff"
+                        android:layout_width="0dp"
+                        android:layout_height="1dp"
+                        android:layout_weight=".10" />
+                </LinearLayout>
 
                 <TextView
                     android:layout_width="wrap_content"

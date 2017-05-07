@@ -34,9 +34,6 @@ public class MainActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
-
-        ColorDrawable color = new ColorDrawable(Color.parseColor("#CC0000"));
-        getSupportActionBar().setBackgroundDrawable(color);
     }
 
     @Override
@@ -78,11 +75,11 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.ageecj) {
-
             // Handle the ageecj action
+            goToUrl ( "http://ageecj.ca/");
             }
-        else if (id == R.id.obtus) {}
-        else if (id == R.id.vertdure) {}
+        else if (id == R.id.obtus) {goToUrl ( "lobtus.com");}
+        else if (id == R.id.vertdure) {goToUrl ( "http://stackoverflow.com/");}
         else if (id == R.id.nav_share) {}
         else if (id == R.id.nav_send) {}
 
@@ -127,12 +124,6 @@ public class MainActivity extends AppCompatActivity
         startActivity(intent);
     }
 
-
-
-
-
-
-
     //open web browser
 
     private void goToUrl (String url) {
@@ -141,15 +132,4 @@ public class MainActivity extends AppCompatActivity
         startActivity(launchBrowser);
     }
 
-    public void goToAgeecj (MenuItem item) {
-        goToUrl ( "http://ageecj.ca/");
-    }
-
-    public void goToObtus (MenuItem item) {
-        goToUrl ( "lobtus.com");
-    }
-
-    public void goToVertdure (MenuItem item) {
-        goToUrl ( "http://stackoverflow.com/");
-    }
 }

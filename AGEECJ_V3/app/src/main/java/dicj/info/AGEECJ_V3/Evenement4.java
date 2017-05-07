@@ -11,9 +11,5 @@ public class Evenement4 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.evenement4);
-
-        ColorDrawable color = new ColorDrawable(Color.parseColor("#CC0000"));
-        getSupportActionBar().setBackgroundDrawable(color);
-
     }
 }
